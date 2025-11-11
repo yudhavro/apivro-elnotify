@@ -25,7 +25,7 @@ APIvro ElNotify adalah plugin WordPress ringan yang menghubungkan formulir Eleme
 - Elementor Pro (untuk sumber data form).
 - Akun APIvro aktif untuk mengirim pesan WhatsApp.
 
-## Ambil Kunci API (CTA)
+## Kunci API
 Dapatkan API Key sekarang di: https://api.yudhavro.com
 
 Dengan API Key aktif, plugin siap mengirim notifikasi WhatsApp secara instan setiap kali ada pengisian formulir.
